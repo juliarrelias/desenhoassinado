@@ -22,6 +22,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: 
-RA: 
-URL: https://
+Nome: Ana Júlia Arrelias de Oliveira
+RA: 2026108221
+URL: https://https://projetologin.pages.dev
