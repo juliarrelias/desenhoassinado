@@ -1,5 +1,5 @@
 // Client ID do Google é público: pode ficar no repositório.
-const GOOGLE_CLIENT_ID = "COLE_AQUI_SEU_CLIENT_ID.apps.googleusercontent.com";
+const GOOGLE_CLIENT_ID = "508578198620-3dto3emmd1lvemtndut2cjlgkefkvf5d.apps.googleusercontent.com";
 
 let idToken = null;
 
