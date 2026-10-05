@@ -24,4 +24,4 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 Nome: Ana Júlia Arrelias de Oliveira
 RA: 2026108221
-URL:
+URL: https://desenhoassi.pages.dev
